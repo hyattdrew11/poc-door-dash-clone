@@ -20,7 +20,6 @@ Also, discuss all the potential challenging parts you can think of as well as po
 ### REQUEST LIFECYCLE
 
 ```
-_
 CLIENT SIDE (REACT)
 |
 GQL / REST HTTP CALLS
