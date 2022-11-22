@@ -5,19 +5,23 @@ Door Dash Clone - [Nest](https://github.com/nestjs/nest) framework TypeScript st
 ## Problem Statement
 
 1. It's a system for multiple restaurants, similar to Yelp or Door dash.
-
 2. The user can preorder a specific dish option in the menu.
-
 3. The user can view info with text, images and/or videos about a restaurant/dish.
-
 4. The user can post a review about a restaurant/dish.
-
 5. The review contains texts, images and/or videos.
 6. The User can view other reviews.
 
 Deliverable: Give me the UML, abstract interfaces, or whatever that can reflect the backend models/structures.
 
 Also, discuss all the potential challenging parts you can think of as well as potential solutions for the indicated challenges.
+
+## Challenges
+
+1. File upload anti viral scan and isolation.
+2. Preordering scheduling to restaurant notification, specifically variable hours of operation time window maximum? (assume only same day ordering)
+3. Profanity / pornography filtering client & server side.
+4. Scaled search / geographic suggestions
+5. Point of sale integration for restaurants
 
 ## Installation
 
