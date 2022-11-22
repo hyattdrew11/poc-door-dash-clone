@@ -15,6 +15,39 @@ Deliverable: Give me the UML, abstract interfaces, or whatever that can reflect 
 
 Also, discuss all the potential challenging parts you can think of as well as potential solutions for the indicated challenges.
 
+## UML
+
+### REQUEST LIFECYCLE
+
+```
+_
+CLIENT SIDE (REACT)
+|
+GQL / REST HTTP CALLS
+|
+API
+| GET_USER
+| GET RESTAURANTS
+| GET RESTAURANT DISHES
+| CREATE USER_REVIEW
+| CREATE RESTAURANT REVIEW
+| CREATE USER_ORDER
+| UPDATE USER_ORDER
+ORM - DATABASE - MYSQL
+```
+
+### DATE BASE SCHEMA
+
+TENANT
+GROUP
+ROLE
+USER
+RESTAURANT
+DISH
+USER_REVIEW
+USER_ORDER
+FILE
+
 ## Challenges
 
 1. File upload anti viral scan and isolation.
@@ -22,6 +55,7 @@ Also, discuss all the potential challenging parts you can think of as well as po
 3. Profanity / pornography filtering client & server side.
 4. Scaled search / geographic suggestions
 5. Point of sale integration for restaurants
+6. Restaurant specific API endpoints (flagging / curating reviews & content - menu)
 
 ## Installation
 
