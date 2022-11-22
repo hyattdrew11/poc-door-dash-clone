@@ -1,6 +1,6 @@
 ## Description
 
-Door Dash Clone - [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Node v16.17.0 - Door Dash Clone - [Nest](https://github.com/nestjs/nest) framework TypeScript.
 
 ## Problem Statement
 
