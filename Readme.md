@@ -1,1 +1,66 @@
-# Door Dash Clone
+## Description
+
+Door Dash Clone - [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+## Problem Statement
+
+1. It's a system for multiple restaurants, similar to Yelp or Door dash.
+
+2. The user can preorder a specific dish option in the menu.
+
+3. The user can view info with text, images and/or videos about a restaurant/dish.
+
+4. The user can post a review about a restaurant/dish.
+
+5. The review contains texts, images and/or videos.
+6. The User can view other reviews.
+
+Deliverable: Give me the UML, abstract interfaces, or whatever that can reflect the backend models/structures.
+
+Also, discuss all the potential challenging parts you can think of as well as potential solutions for the indicated challenges.
+
+## Installation
+
+```bash
+$ npm install
+```
+
+## Running the app
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run start:prod
+```
+
+## Test
+
+```bash
+# unit tests
+$ npm run test
+
+# e2e tests
+$ npm run test:e2e
+
+# test coverage
+$ npm run test:cov
+```
+
+## Support
+
+Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+
+## Stay in touch
+
+- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
+- Website - [https://nestjs.com](https://nestjs.com/)
+- Twitter - [@nestframework](https://twitter.com/nestframework)
+
+## License
+
+Nest is [MIT licensed](LICENSE).
